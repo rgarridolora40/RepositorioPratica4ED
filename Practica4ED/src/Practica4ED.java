@@ -5,6 +5,7 @@ import java.io.InputStreamReader;
 public class Practica4ED
 {
 	//Comentario de Jose Luis
+	//hola este comentario es para Adolfo//
 
 	public static void main(String[] args) throws NumberFormatException, IOException
 	{
